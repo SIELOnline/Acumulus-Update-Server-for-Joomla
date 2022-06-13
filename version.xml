@@ -1,7 +1,26 @@
 <updates>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
+        <element>acumulus</element>
+        <type>package</type>
+        <version>7.3.0</version>
+        <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">https://raw.githubusercontent.com/SIELOnline/Acumulus-Update-Server-for-Joomla/7.3.0/Acumulus-for-Joomla.zip</downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <maintainer>Buro RaDer</maintainer>
+        <maintainerurl>https://burorader.com/</maintainerurl>
+        <targetplatform name="joomla" version="(3\.9|(10))|(4\.[01])"/>
+		<php_minimum>7.2</php_minimum>
+		<supported_databases mysql="5.6.5" mariadb="10.0"/>
+    </update>
+    <update>
+        <name>Acumulus</name>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>7.2.3</version>
@@ -20,7 +39,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>7.2.2</version>
@@ -39,7 +58,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>7.1.1</version>
@@ -56,7 +75,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>6.4.0</version>
@@ -73,7 +92,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>6.3.6</version>
@@ -90,7 +109,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>6.3.2</version>
@@ -107,7 +126,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>6.3.1</version>
@@ -124,7 +143,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>6.3.0</version>
@@ -141,7 +160,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>6.2.0</version>
@@ -158,7 +177,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>6.1.2</version>
@@ -175,7 +194,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>6.1.0</version>
@@ -192,7 +211,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>6.0.4</version>
@@ -209,7 +228,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>6.0.2</version>
@@ -226,7 +245,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>6.0.0</version>
@@ -243,7 +262,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>5.9.0</version>
@@ -260,7 +279,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>5.7.2</version>
@@ -277,7 +296,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>5.7.0</version>
@@ -294,7 +313,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>5.6.1</version>
@@ -311,7 +330,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>5.6.0</version>
@@ -328,7 +347,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>5.5.1</version>
@@ -345,7 +364,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>5.5.0</version>
@@ -362,7 +381,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>5.4.9</version>
@@ -379,7 +398,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>5.4.8</version>
@@ -396,7 +415,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>5.4.7</version>
@@ -413,7 +432,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>5.4.6</version>
@@ -430,7 +449,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart en HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>5.4.1</version>
@@ -447,7 +466,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart 3.x of HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart 3.x of HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>5.1.2</version>
@@ -464,7 +483,7 @@
     </update>
     <update>
         <name>Acumulus</name>
-        <description>Acumulus webservice koppeling voor VirtueMart 3.x of HikaShop</description>
+        <description>Acumulus koppeling voor VirtueMart 3.x of HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
         <version>5.0.5</version>
