@@ -4,6 +4,25 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>acumulus</element>
         <type>package</type>
+        <version>7.3.3</version>
+        <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">https://raw.githubusercontent.com/SIELOnline/Acumulus-Update-Server-for-Joomla/7.3.3/Acumulus-for-Joomla.zip</downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <maintainer>Buro RaDer</maintainer>
+        <maintainerurl>https://burorader.com/</maintainerurl>
+        <targetplatform name="joomla" version="(3\.9|(10))|(4\.[01])"/>
+		<php_minimum>7.2</php_minimum>
+		<supported_databases mysql="5.6.5" mariadb="10.0"/>
+    </update>
+    <update>
+        <name>Acumulus</name>
+        <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
+        <element>acumulus</element>
+        <type>package</type>
         <version>7.3.2</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
