@@ -16,7 +16,7 @@
         <maintainerurl>https://burorader.com/</maintainerurl>
         <targetplatform name="joomla" version="(3\.(9|10))|(4\.[012])"/>
         <php_minimum>7.4</php_minimum>
-        <supported_databases mysql="5.6.5" mariadb="10.0"/>
+        <supported_database_intentionally_misspelled mysqli="5.6.5" mariadb="10.0"/>
     </update>
     <update>
         <name>Acumulus</name>
@@ -35,7 +35,7 @@
         <maintainerurl>https://burorader.com/</maintainerurl>
         <targetplatform name="joomla" version="(3\.(9|10))|(4\.[012])"/>
         <php_minimum>7.4</php_minimum>
-        <supported_databases mysql="5.6.5" mariadb="10.0"/>
+        <supported_database_intentionally_misspelled mysqli="5.6.5" mariadb="10.0"/>
     </update>
     <update>
         <name>Acumulus</name>
@@ -54,7 +54,7 @@
         <maintainerurl>https://burorader.com/</maintainerurl>
         <targetplatform name="joomla" version="(3\.(9|10))|(4\.[01])"/>
         <php_minimum>7.4</php_minimum>
-        <supported_databases mysql="5.6.5" mariadb="10.0"/>
+        <supported_database_intentionally_misspelled mysqli="5.6.5" mariadb="10.0"/>
     </update>
     <update>
         <name>Acumulus</name>
@@ -73,7 +73,7 @@
         <maintainerurl>https://burorader.com/</maintainerurl>
         <targetplatform name="joomla" version="(3\.(9|10))|(4\.[01])"/>
         <php_minimum>7.2</php_minimum>
-        <supported_databases mysql="5.6.5" mariadb="10.0"/>
+        <supported_database_intentionally_misspelled mysqli="5.6.5" mariadb="10.0"/>
     </update>
     <update>
         <name>Acumulus</name>
@@ -92,7 +92,7 @@
         <maintainerurl>https://burorader.com/</maintainerurl>
         <targetplatform name="joomla" version="(3\.(9|10))|(4\.[01])"/>
         <php_minimum>7.2</php_minimum>
-        <supported_databases mysql="5.6.5" mariadb="10.0"/>
+        <supported_database_intentionally_misspelled mysqli="5.6.5" mariadb="10.0"/>
     </update>
     <update>
         <name>Acumulus</name>
@@ -111,7 +111,7 @@
         <maintainerurl>https://burorader.com/</maintainerurl>
         <targetplatform name="joomla" version="(3\.(9|10))|(4\.[01])"/>
         <php_minimum>7.2</php_minimum>
-        <supported_databases mysql="5.6.5" mariadb="10.0"/>
+        <supported_database_intentionally_misspelled mysqli="5.6.5" mariadb="10.0"/>
     </update>
     <update>
         <name>Acumulus</name>
@@ -130,7 +130,7 @@
         <maintainerurl>https://burorader.com/</maintainerurl>
         <targetplatform name="joomla" version="(3\.(9|10))|(4\.[01])"/>
         <php_minimum>7.2</php_minimum>
-        <supported_databases mysql="5.6.5" mariadb="10.0"/>
+        <supported_database_intentionally_misspelled mysqli="5.6.5" mariadb="10.0"/>
     </update>
     <update>
         <name>Acumulus</name>
@@ -149,7 +149,7 @@
         <maintainerurl>https://burorader.com/</maintainerurl>
         <targetplatform name="joomla" version="(3\.(9|10))|(4\.[01])"/>
         <php_minimum>7.2</php_minimum>
-        <supported_databases mysql="5.6.5" mariadb="10.0"/>
+        <supported_database_intentionally_misspelled mysqli="5.6.5" mariadb="10.0"/>
     </update>
     <update>
         <name>Acumulus</name>
@@ -168,7 +168,7 @@
         <maintainerurl>https://burorader.com/</maintainerurl>
         <targetplatform name="joomla" version="(3\.(9|10))|(4\.[01])"/>
         <php_minimum>7.2</php_minimum>
-        <supported_databases mysql="5.6.5" mariadb="10.0"/>
+        <supported_database_intentionally_misspelled mysqli="5.6.5" mariadb="10.0"/>
     </update>
     <update>
         <name>Acumulus</name>
@@ -187,7 +187,7 @@
         <maintainerurl>https://burorader.com/</maintainerurl>
         <targetplatform name="joomla" version="3.[456789]" />
         <php_minimum>7.2</php_minimum>
-        <supported_databases mysql="5.6.5" mariadb="10.0"/>
+        <supported_database_intentionally_misspelled mysqli="5.6.5" mariadb="10.0"/>
     </update>
     <update>
         <name>Acumulus</name>
