@@ -4,6 +4,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>7.6.5</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -14,7 +15,7 @@
         </tags>
         <maintainer>Buro RaDer</maintainer>
         <maintainerurl>https://burorader.com/</maintainerurl>
-        <targetplatform name="joomla" version="(3\.(9|10))|(4\.[012])"/>
+        <targetplatform name="joomla" version="(3\.(9|10))|(4\.[0123])"/>
         <php_minimum>7.4</php_minimum>
         <supported_database_intentionally_misspelled mysqli="5.6.5" mariadb="10.0"/>
     </update>
@@ -23,6 +24,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>7.6.3</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -42,6 +44,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>7.5.0</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -61,6 +64,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>7.4.3</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -80,6 +84,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>7.3.3</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -99,6 +104,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>7.3.2</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -118,6 +124,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>7.3.1</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -137,6 +144,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>7.3.0</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -156,6 +164,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>7.2.3</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -175,6 +184,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>7.2.2</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -194,6 +204,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>7.1.1</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -211,6 +222,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>6.4.0</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -228,6 +240,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>6.3.6</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -245,6 +258,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>6.3.2</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -262,6 +276,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>6.3.1</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -279,6 +294,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>6.3.0</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -296,6 +312,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>6.2.0</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -313,6 +330,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>6.1.2</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -330,6 +348,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>6.1.0</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -347,6 +366,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>6.0.4</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -364,6 +384,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>6.0.2</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -381,6 +402,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>6.0.0</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -398,6 +420,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>5.9.0</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -415,6 +438,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>5.7.2</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -432,6 +456,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>5.7.0</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -449,6 +474,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>5.6.1</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -466,6 +492,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>5.6.0</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -483,6 +510,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>5.5.1</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -500,6 +528,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>5.5.0</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -517,6 +546,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>5.4.9</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -534,6 +564,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>5.4.8</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -551,6 +582,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>5.4.7</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -568,6 +600,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>5.4.6</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -585,6 +618,7 @@
         <description>Acumulus koppeling voor VirtueMart en HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>5.4.1</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -602,6 +636,7 @@
         <description>Acumulus koppeling voor VirtueMart 3.x of HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>5.1.2</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
@@ -619,6 +654,7 @@
         <description>Acumulus koppeling voor VirtueMart 3.x of HikaShop</description>
         <element>pkg_acumulus</element>
         <type>package</type>
+        <client>site</client>
         <version>5.0.5</version>
         <infourl title="Changelog">https://github.com/SIELOnline/libAcumulus/blob/master/changelog.txt</infourl>
         <downloads>
